@@ -1,5 +1,5 @@
 # 💫 About Me:
-💨I'm currently learning backend<br>🌐Fun fact: I host my personal projects on a private server<br>💫I'm looking for collaboration in any full stack project<br>💯Random Dev Quote: One man's variable is another man's constant<br><br>
+💨I'm shell to automate boring tasks<br>🌐Fun fact: I only need anime and codding to feel great<br>💫I'm looking for collaboration in any full stack project<br>💯Random Dev Quote: One man's variable is another man's constant<br><br>
 
 
 ## 🌐 Socials:
