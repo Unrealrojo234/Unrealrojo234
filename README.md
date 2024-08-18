@@ -2,7 +2,7 @@
 💨I'm currently learning shell to automate boring tasks<br>🌐Fun fact: I only need anime and codding to feel great<br>💫I'm looking for collaboration in any full stack project<br>💯Random Dev Quote: One man's variable is another man's constant<br><br>
 
 ✨ Portfolio Website:
-[![Ryan Otieno](https://portfolio-website-two-lyart-87.vercel.app/)! 
+(https://portfolio-website-two-lyart-87.vercel.app/) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RyanOtieno) 
