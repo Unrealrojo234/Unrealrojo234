@@ -3,14 +3,16 @@
 
 
 # 💫 About Me:
-💨I'm currently learning shell to automate boring tasks<br>🌐Fun fact: I only need anime and codding to feel great<br>💫I'm looking for collaboration in any full stack project<br>💯Random Dev Quote: If it works, don't touch it.<br><br>
-![image](https://github.com/user-attachments/assets/a04a6570-c642-46ac-bad6-79ed3469601d)
+💨I'm currently learning shell to automate repetetive tasks<br>🌐Fun fact: I only need anime and codding to feel great<br>💫I'm looking for collaboration in any full stack project<br>💯Random Dev Quote: If it works, don't touch it.<br><br>
+
+![image](https://github.com/user-attachments/assets/abcc0352-38e8-4f4c-9d9d-788e903fdd8f)
+
 
 
 ✨ Portfolio Website:
-(https://portfolio-website-two-lyart-87.vercel.app/) 
+<a href="https://portfolio-website-two-lyart-87.vercel.app/">Website</a> 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RyanOtieno) 
 
 # 💻 Tech Stack:
@@ -20,6 +22,10 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Unrealrojo234&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unrealrojo234&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# GitHub Trophies
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Unrealrojo234" alt="Unrealrojo234" /></a></p>
+
 
 
 ---
