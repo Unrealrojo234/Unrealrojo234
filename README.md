@@ -22,8 +22,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unrealrojo234&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Unrealrojo234&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unrealrojo234&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unrealrojo234&langs_count=16&theme=merko)
 # GitHub Trophies
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Unrealrojo234" alt="Unrealrojo234" /></a></p>
 
