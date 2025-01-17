@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-💨I'm currently learning shell to automate repetetive tasks<br>🌐Fun fact: I only need anime and codding to feel great<br>💫I'm looking for collaboration in any full stack project<br>💯Random Dev Quote: If it works, don't touch it.<br><br>
+💨I'm currently learning kotlin and jetpack compose for native android development<br>🌐Fun fact: I only need anime and coding to feel great<br>💫I'm looking for collaboration in any full stack project<br>💯Random Dev Quote: If it works, don't touch it.<br><br>
 
 ![image](https://github.com/user-attachments/assets/abcc0352-38e8-4f4c-9d9d-788e903fdd8f)
 
