@@ -13,57 +13,24 @@
 
 
 ![Tech-Stack-1-17-2025](https://github.com/user-attachments/assets/b503a44b-fe6f-4772-8cf2-552a4ebb0e69)
+# 🛠️ Skills & Tools
 
+| Category | Technologies & Tools |
+|----------|-------------------|
+| **Frontend Development** | <img src="https://image-server-mu.vercel.app/Images/html5.svg" alt="html" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/css.svg" alt="css" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/sass.svg" alt="sass" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/bootstrap5.svg" alt="bootstrap5" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/javascript.svg" alt="javascript" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/jquery.svg" alt="jquery" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/reactjs.svg" alt="reactjs" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> |
+| **Backend Development** | <img src="https://image-server-mu.vercel.app/Images/nodejs.svg" alt="nodejs" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/flask-light.svg" alt="flask" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/expressjs-light.svg" alt="expressjs-light" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/python.svg" alt="python" width="40" height="40"/> |
+| **API Testing** | <img src="https://image-server-mu.vercel.app/Images/postman.svg" alt="postman" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/insomnia.svg" alt="insomnia" width="40" height="40"/> |
+| **Databases** | <img src="https://image-server-mu.vercel.app/Images/mongodb.svg" alt="mongodb" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/postgresql.svg" alt="postgresql" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/supabase.svg" alt="supabase" width="40" height="40"/> |
+| **Native App Development** | <img src="https://image-server-mu.vercel.app/Images/android.svg" alt="android" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/kotlin.svg" alt="kotlin" width="40" height="40"/> |
+| **Code Editors** | <img src="https://image-server-mu.vercel.app/Images/vscode.svg" alt="vscode" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/sublime.svg" alt="sublime" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/vim.svg" alt="vim" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/neovim.svg" alt="neovim" width="40" height="40"/> |
+| **Deployment And Hosting** | <img src="https://image-server-mu.vercel.app/Images/render.svg" alt="render" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/vercel-light.svg" alt="vercel" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/github-light.svg" alt="githublight" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/git.svg" alt="git" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/docker.svg" alt="docker" width="40" height="40"/> |
+| **Web Browsers** | <img src="https://image-server-mu.vercel.app/Images/chromium.svg" alt="chromium" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/brave.svg" alt="brave" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/firefox.svg" alt="firefox" width="40" height="40"/> |
+| **AI** | <img src="https://image-server-mu.vercel.app/Images/chatgpt.svg" alt="chatgpt" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/github-copilot.svg" alt="chatgpt" width="40" height="40"/> |
+| **Package Managers, Build tools & Testing** | <img src="https://image-server-mu.vercel.app/Images/npm.svg" alt="npm" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/webpack.svg" alt="webpack" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/vitejs.svg" alt="vitejs" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/vitest.svg" alt="vitest" width="40" height="40"/> |
+| **Operating Systems** | <img src="https://image-server-mu.vercel.app/Images/linux.svg" alt="linux" width="40" height="40"/> <img src="https://image-server-mu.vercel.app/Images/ubuntu.svg" alt="ubuntu" width="40" height="40"/> |
 
-## Web Development
+---
 
-<h3 style="color:teal;">Frontend Development</h3>
-
-<img src="https://image-server-mu.vercel.app/Images/html5.svg" alt="html" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/css.svg" alt="css" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/sass.svg" alt="sass" width="40" height="40"/> &nbsp;  <img src="https://image-server-mu.vercel.app/Images/bootstrap5.svg" alt="bootstrap5" width="40" height="40"/>  &nbsp;  <img src="https://image-server-mu.vercel.app/Images/javascript.svg" alt="javascript" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/jquery.svg" alt="jquery" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/reactjs.svg" alt="reactjs" width="40" height="40"/> &nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
-
-<h3 style="color:cyan;">Backend Development</h3>
-
-<img src="https://image-server-mu.vercel.app/Images/nodejs.svg" alt="nodejs" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/flask-light.svg" alt="flask" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/expressjs-light.svg" alt="expressjs-light" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/python.svg" alt="python" width="40" height="40"/>
-
-
-## API Testing 
-
-<img src="https://image-server-mu.vercel.app/Images/postman.svg" alt="postman" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/insomnia.svg" alt="insomnia" width="40" height="40"/> &nbsp;
-
-
-## Databases
-
-<img src="https://image-server-mu.vercel.app/Images/mongodb.svg" alt="mongodb" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/postgresql.svg" alt="postgresql" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/supabase.svg" alt="supabase" width="40" height="40"/> &nbsp;
-
-
-## Native App Development
-
-<img src="https://image-server-mu.vercel.app/Images/android.svg" alt="android" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/kotlin.svg" alt="kotlin" width="40" height="40"/> &nbsp;
-
-## Code Editors
-
-<img src="https://image-server-mu.vercel.app/Images/vscode.svg" alt="vscode" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/sublime.svg" alt="sublime" width="40" height="40"/> &nbsp;
-<img src="https://image-server-mu.vercel.app/Images/vim.svg" alt="vim" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/neovim.svg" alt="neovim" width="40" height="40"/> &nbsp;
-
-## Deployment And Hosting
-
-<img src="https://image-server-mu.vercel.app/Images/render.svg" alt="render" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/vercel-light.svg" alt="vercel" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/github-light.svg" alt="githublight" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/git.svg" alt="git" width="40" height="40"/>  &nbsp; <img src="https://image-server-mu.vercel.app/Images/docker.svg" alt="docker" width="40" height="40"/> &nbsp;
-
-## Web Browsers
-
-<img src="https://image-server-mu.vercel.app/Images/chromium.svg" alt="chromium" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/brave.svg" alt="brave" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/firefox.svg" alt="firefox" width="40" height="40"/>
-
-
-## AI
-
-<img src="https://image-server-mu.vercel.app/Images/chatgpt.svg" alt="chatgpt" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/github-copilot.svg" alt="chatgpt" width="40" height="40"/> &nbsp;
-
-## Package Managers, Build tools & Tetsing
-
-<img src="https://image-server-mu.vercel.app/Images/npm.svg" alt="npm" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/webpack.svg" alt="chatgpt" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/vitejs.svg" alt="vitejs" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/vitest.svg" alt="vitest" width="40" height="40"/> &nbsp;
-
-## Operating Systems
-<img src="https://image-server-mu.vercel.app/Images/linux.svg" alt="linux" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/ubuntu.svg" alt="ubuntu" width="40" height="40"/>  
 
 ![GitHub-Stats-1-17-2025](https://github.com/user-attachments/assets/2c91a65e-d373-469f-b6ea-ddc54b645658)
 
