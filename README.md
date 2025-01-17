@@ -1,6 +1,4 @@
-# Welcome to my README
-![pinterestdownloader com-1731249793 826255](https://github.com/user-attachments/assets/004fe41e-82b3-4ba6-a108-dd7fa62200a0)
-
+<img src="https://i.pinimg.com/originals/50/1a/ea/501aeaae8758b0f6c5c7a17d9533ecae.gif"/> 
 
 # 💫 About Me:
 💨I'm currently learning kotlin and jetpack compose for native android development<br>🌐Fun fact: I only need anime and coding to feel great<br>💫I'm looking for collaboration in any full stack project<br>💯Random Dev Quote: If it works, don't touch it.<br><br>
@@ -16,8 +14,55 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RyanOtieno) 
 
 # 💻 Tech Stack:
-<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+
+## Web Development
+
+<h3 style="color:teal;">Frontend Development</h3>
+
+<img src="https://image-server-mu.vercel.app/Images/html5.svg" alt="html" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/css.svg" alt="css" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/sass.svg" alt="sass" width="40" height="40"/> &nbsp;  <img src="https://image-server-mu.vercel.app/Images/bootstrap5.svg" alt="bootstrap5" width="40" height="40"/>  &nbsp;  <img src="https://image-server-mu.vercel.app/Images/javascript.svg" alt="javascript" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/jquery.svg" alt="jquery" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/reactjs.svg" alt="reactjs" width="40" height="40"/> &nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
+
+<h3 style="color:cyan;">Backend Development</h3>
+
+<img src="https://image-server-mu.vercel.app/Images/nodejs.svg" alt="nodejs" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/flask-light.svg" alt="flask" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/expressjs-light.svg" alt="expressjs-light" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/flask-light.svg" alt="flask-light" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/python.svg" alt="python" width="40" height="40"/>
+
+
+## API Testing 
+
+<img src="https://image-server-mu.vercel.app/Images/postman.svg" alt="postman" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/insomnia.svg" alt="insomnia" width="40" height="40"/> &nbsp;
+
+
+## Databases
+
+<img src="https://image-server-mu.vercel.app/Images/mongodb.svg" alt="mongodb" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/postgresql.svg" alt="postgresql" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/supabase.svg" alt="supabase" width="40" height="40"/> &nbsp;
+
+
+## Native App Development
+
+<img src="https://image-server-mu.vercel.app/Images/android.svg" alt="android" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/kotlin.svg" alt="kotlin" width="40" height="40"/> &nbsp;
+
+## Code Editors
+
+<img src="https://image-server-mu.vercel.app/Images/vscode.svg" alt="vscode" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/sublime.svg" alt="sublime" width="40" height="40"/> &nbsp;
+<img src="https://image-server-mu.vercel.app/Images/vim.svg" alt="vim" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/neovim.svg" alt="neovim" width="40" height="40"/> &nbsp;
+
+## Deployment And Hosting
+
+<img src="https://image-server-mu.vercel.app/Images/render.svg" alt="render" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/vercel-light.svg" alt="vercel" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/github-light.svg" alt="githublight" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/git.svg" alt="git" width="40" height="40"/>  &nbsp; <img src="https://image-server-mu.vercel.app/Images/docker.svg" alt="docker" width="40" height="40"/> &nbsp;
+
+## Web Browsers
+
+<img src="https://image-server-mu.vercel.app/Images/chromium.svg" alt="chromium" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/brave.svg" alt="brave" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/firefox.svg" alt="firefox" width="40" height="40"/>
+
+
+## AI
+
+<img src="https://image-server-mu.vercel.app/Images/chatgpt.svg" alt="chatgpt" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/github-copilot.svg" alt="chatgpt" width="40" height="40"/> &nbsp;
+
+## Package Managers, Build tools & Tetsing
+
+<img src="https://image-server-mu.vercel.app/Images/npm.svg" alt="npm" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/webpack.svg" alt="chatgpt" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/vitejs.svg" alt="vitejs" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/vitest.svg" alt="vitest" width="40" height="40"/> &nbsp;
+
+
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unrealrojo234&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 
