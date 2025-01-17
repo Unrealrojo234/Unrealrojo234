@@ -83,6 +83,9 @@ Database  ███████████████░░░░░   80%
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Unrealrojo234&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
     </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Unrealrojo234&theme=merko&hide_border=true"/>
+    </td>
   </tr>
 </table>
 
