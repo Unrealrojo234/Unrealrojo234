@@ -1,11 +1,9 @@
 <img src="https://i.pinimg.com/originals/50/1a/ea/501aeaae8758b0f6c5c7a17d9533ecae.gif"/> 
+<br>
 
-# 💫 About Me:
+![Vanilla@1x-1 4s-280px-58px](https://github.com/user-attachments/assets/a9fbb956-c059-4fad-9e95-976b77eb77ef)
+
 💨I'm currently learning kotlin and jetpack compose for native android development<br>🌐Fun fact: I only need anime and coding to feel great<br>💫I'm looking for collaboration in any full stack project<br>💯Random Dev Quote: If it works, don't touch it.<br><br>
-
-![image](https://github.com/user-attachments/assets/abcc0352-38e8-4f4c-9d9d-788e903fdd8f)
-
-
 
 ✨ Portfolio Website:
 <a href="https://portfolio-website-two-lyart-87.vercel.app/">Website</a> 
@@ -13,7 +11,9 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RyanOtieno) 
 
-# 💻 Tech Stack:
+
+![Tech-Stack-1-17-2025](https://github.com/user-attachments/assets/b503a44b-fe6f-4772-8cf2-552a4ebb0e69)
+
 
 ## Web Development
 
@@ -23,7 +23,7 @@
 
 <h3 style="color:cyan;">Backend Development</h3>
 
-<img src="https://image-server-mu.vercel.app/Images/nodejs.svg" alt="nodejs" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/flask-light.svg" alt="flask" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/expressjs-light.svg" alt="expressjs-light" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/flask-light.svg" alt="flask-light" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/python.svg" alt="python" width="40" height="40"/>
+<img src="https://image-server-mu.vercel.app/Images/nodejs.svg" alt="nodejs" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/flask-light.svg" alt="flask" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/expressjs-light.svg" alt="expressjs-light" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/python.svg" alt="python" width="40" height="40"/>
 
 
 ## API Testing 
@@ -62,13 +62,21 @@
 
 <img src="https://image-server-mu.vercel.app/Images/npm.svg" alt="npm" width="40" height="40"/> &nbsp; <img src="https://image-server-mu.vercel.app/Images/webpack.svg" alt="chatgpt" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/vitejs.svg" alt="vitejs" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/vitest.svg" alt="vitest" width="40" height="40"/> &nbsp;
 
+## Operating Systems
+<img src="https://image-server-mu.vercel.app/Images/linux.svg" alt="linux" width="40" height="40"/> &nbsp;<img src="https://image-server-mu.vercel.app/Images/ubuntu.svg" alt="ubuntu" width="40" height="40"/>  
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unrealrojo234&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+![GitHub-Stats-1-17-2025](https://github.com/user-attachments/assets/2c91a65e-d373-469f-b6ea-ddc54b645658)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Unrealrojo234&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unrealrojo234&langs_count=16&theme=merko)
-# GitHub Trophies
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unrealrojo234&theme=blue-green&show_icons=true&hide_border=true&count_private=true) &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Unrealrojo234&theme=github_dark&hide_border=false)
+
+
+<div style="display:flex;justify-content:center;align-items:center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unrealrojo234&langs_count=6&theme=merko&hide=html,css&layout=donut-vertical"/>
+</div>
+
+
+![GitHub-Trophies-1-17-2025](https://github.com/user-attachments/assets/89652f03-401b-47ea-91e7-b685f294170c)
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Unrealrojo234" alt="Unrealrojo234" /></a></p>
 
 
