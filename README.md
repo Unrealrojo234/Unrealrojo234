@@ -1,16 +1,41 @@
 <img src="https://i.pinimg.com/originals/50/1a/ea/501aeaae8758b0f6c5c7a17d9533ecae.gif"/> 
 <br>
+<div align="center">
 
-![Vanilla@1x-1 4s-280px-58px](https://github.com/user-attachments/assets/a9fbb956-c059-4fad-9e95-976b77eb77ef)
+# 👨‍💻 About Me
 
-💨I'm currently learning kotlin and jetpack compose for native android development<br>🌐Fun fact: I only need anime and coding to feel great<br>💫I'm looking for collaboration in any full stack project<br>💯Random Dev Quote: If it works, don't touch it.<br><br>
+</div>
 
-✨ Portfolio Website:
-<a href="https://portfolio-website-two-lyart-87.vercel.app/">Website</a> 
+## 🚀 Quick Facts
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RyanOtieno) 
+```typescript
+const ryan = {
+    currentlyLearning: "Kotlin & Jetpack Compose for Android Development",
+    passions: ["Anime", "Coding"],
+    lookingFor: "Full Stack Project Collaborations",
+    motto: "If it works, don't touch it. 💭"
+};
+```
 
+## 🎯 What I'm Up To
+
+- 📱 Deep diving into Native Android Development
+- 🤝 Open to collaborate on Full Stack projects
+- 🎮 Balancing coding with anime watching
+- 🌱 Always learning, always growing
+
+## 🔗 Connect With Me
+
+<div align="left">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-two-lyart-87.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RyanOtieno)
+
+</div>
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+---
 
 ![Tech-Stack-1-17-2025](https://github.com/user-attachments/assets/b503a44b-fe6f-4772-8cf2-552a4ebb0e69)
 # 🛠️ Skills & Tools
