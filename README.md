@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ryan+%F0%9F%91%8B;Full+Stack+Developer;Android+Developer;Always+Learning" alt="Typing SVG" />
+</div>
+
+
+<div align="center">
 
 # 👨‍💻 About Me
 
@@ -23,6 +28,10 @@ const ryan = {
 - 🤝 Open to collaborate on Full Stack projects
 - 🎮 Balancing coding with anime watching
 - 🌱 Always learning, always growing
+
+
+# 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Unrealrojo234&theme=github-compact)
 
 ## 🔗 Connect With Me
 
@@ -56,25 +65,48 @@ const ryan = {
 ---
 
 
-# GitHub Stats 📊
+## 💻 Tech Stack Progress
+```javascript
+Frontend  ███████████████░░░░░   80%
+Backend   ████████████████░░░░   85%
+Android   ██████████░░░░░░░░░░   50%
+Database  ███████████████░░░░░   80%
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unrealrojo234&theme=blue-green&show_icons=true&hide_border=true&count_private=true) &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Unrealrojo234&theme=github_dark&hide_border=false)
+```
 
+<div align="center">
+  
+# 📊 GitHub Statistics
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Unrealrojo234&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+  </tr>
+</table>
 
-<div style="display:flex;justify-content:center;align-items:center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unrealrojo234&langs_count=6&theme=merko&hide=html,css&layout=donut-vertical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unrealrojo234&langs_count=6&theme=merko&hide=html,css&layout=donut-vertical"/>
 </div>
 
 
-# GitHub Trophies 🏆🏆
+<div align="center">
+  <img src="https://github.com/Unrealrojo234/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+# GitHub Trophies 🏆
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Unrealrojo234" alt="Unrealrojo234" /></a></p>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Unrealrojo234&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Unrealrojo234&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+## 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # Adios 🙋🏾‍♂️
 
