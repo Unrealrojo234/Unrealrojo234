@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/originals/50/1a/ea/501aeaae8758b0f6c5c7a17d9533ecae.gif"/> 
-<br>
 <div align="center">
 
 # 👨‍💻 About Me
@@ -16,6 +14,8 @@ const ryan = {
     motto: "If it works, don't touch it. 💭"
 };
 ```
+
+[![Favorite Song](https://img.shields.io/badge/🎵_Favorite_Song-Mary_On_A_Cross_(Slowed_Down)-FF1493?style=for-the-badge)](https://open.spotify.com/track/2hZXKkiJh6Q7CjZMvKZsY2)
 
 ## 🎯 What I'm Up To
 
@@ -37,7 +37,6 @@ const ryan = {
 
 ---
 
-![Tech-Stack-1-17-2025](https://github.com/user-attachments/assets/b503a44b-fe6f-4772-8cf2-552a4ebb0e69)
 # 🛠️ Skills & Tools
 
 | Category | Technologies & Tools |
@@ -57,7 +56,7 @@ const ryan = {
 ---
 
 
-![GitHub-Stats-1-17-2025](https://github.com/user-attachments/assets/2c91a65e-d373-469f-b6ea-ddc54b645658)
+# GitHub Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unrealrojo234&theme=blue-green&show_icons=true&hide_border=true&count_private=true) &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Unrealrojo234&theme=github_dark&hide_border=false)
 
@@ -67,13 +66,16 @@ const ryan = {
 </div>
 
 
-![GitHub-Trophies-1-17-2025](https://github.com/user-attachments/assets/89652f03-401b-47ea-91e7-b685f294170c)
+# GitHub Trophies 🏆🏆
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Unrealrojo234" alt="Unrealrojo234" /></a></p>
-
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Unrealrojo234&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Adios 🙋🏾‍♂️
+
+<img src="https://i.pinimg.com/originals/50/1a/ea/501aeaae8758b0f6c5c7a17d9533ecae.gif"/> 
